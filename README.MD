@@ -1,1 +1,2 @@
-Efe Söğüt ile python çalışmalarmız..
+# Efe Söğüt ile python çalışmalarmız..
+Merhaba arkadaşalar
