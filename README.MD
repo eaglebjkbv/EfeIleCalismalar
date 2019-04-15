@@ -1,0 +1,1 @@
+Efe Söğüt ile python çalışmalarmız..
